@@ -2,7 +2,7 @@
 <h3 align="center"> :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: </h3>
 
 ### My projects :books:
-* Using Simple Transformers to classify Gender Based Violence tweets as part of the AMLD Africa Hackathon [Found Here](https://https://github.com/FaatimahM/Tweet_classification_simpletransformers)
+* Using Simple Transformers to classify Gender Based Violence tweets as part of the AMLD Africa Hackathon [Found Here](https://github.com/FaatimahM/Tweet_classification_simpletransformers)
 * Building a regression model to predict Estimated time of delivery [Found Here](https://github.com/Mangalis0/Zindi-Regression-Hackathon)
 * Using machine learning to classify climate change tweets, then deploying models on Streamlit App [Found Here](https://github.com/FaatimahM/unsup-streamlit-app1)
 * Creating a movie recommendation system with unsupervised learning techniques then deploying models on Streamlit App [Found Here](https://github.com/FaatimahM/unsup-streamlit-app1)
