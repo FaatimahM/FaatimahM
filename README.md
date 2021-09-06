@@ -1,6 +1,6 @@
-### Hello, hi 👋
+### Hello, hi 👋 I'm Faatimah and welcome to my space✨
 
-✨I'm Faatimah and welcome to my space✨
+
 
 ### My projects: 
 * Using Simple Transformers to classify Gender Based Violence tweets as part of the AMLD Africa Hackathon [Found Here](https://https://github.com/FaatimahM/Tweet_classification_simpletransformers)
@@ -11,7 +11,9 @@
 ### 📫 Connect with me IRL 
 <a href="https://www.linkedin.com/in/faatimah-mansoor/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Faatimah" height="30" width="40" /></a>
 
-### Launages
+### Tools and tech 
+</a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+
 
 <!--
 **FaatimahM/FaatimahM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
