@@ -5,6 +5,7 @@
 
 ### Projects :books:
 #### My projects 
+* Personal website [Found Here](https://github.com/FaatimahM/profile)
 * Using Simple Transformers to classify Gender Based Violence tweets as part of the AMLD Africa Hackathon [Found Here](https://github.com/FaatimahM/Tweet_classification_simpletransformers)
 
 #### Projects that I've collaborated on 
