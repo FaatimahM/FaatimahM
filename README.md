@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Welcome to my space :robot: </h1>
+<h1 align="center"> 👋 Welcome:robot: </h1>
 <h3 align="center"> I'm Faatimah, a Plant Scientist with an interest in Data Science </h1>
 <h4 align="center"> :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: :herb: </h3>
 
