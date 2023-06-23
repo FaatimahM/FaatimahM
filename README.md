@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&size=30&pause=1000&color=268AD9&center=true&vCenter=true&width=435&lines=WELCOME!+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <h3 align="center"> I'm Faatimah, a Plant Scientist with an interest in Data Science </h1>
-<h4 align="center"> :herb: :🪴: :herb: :🪴: :herb: :🪴: :herb: :🪴: :herb: :🪴: </h3>
+<h4 align="center"> 🌵 :herb: 🪴 :herb: 🪴 :herb: 🪴 :herb: 🪴 :herb: 🪴 🌵 </h3>
 
 
 ### Projects :books:
