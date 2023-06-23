@@ -1,4 +1,4 @@
-[![Typing SVG] (https://readme-typing-svg.demolab.com?font=sans-serif&size=40&pause=1000&color=1EC356&center=true&vCenter=true&width=435&lines=        WELCOME!+%F0%9F%A4%96)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=sans-serif&size=40&pause=1000&color=35CC40&background=51929000&center=true&vCenter=true&width=435&lines=+++++++++++++++++++WELCOME!+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <h3 align="center"> I'm Faatimah, a Plant Scientist with an interest in Data Science </h1>
 <h4 align="center"> 🌵 :herb: 🪴 :herb: 🪴 :herb: 🪴 :herb: 🪴 :herb: 🪴 🌵 </h3>
