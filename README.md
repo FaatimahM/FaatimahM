@@ -41,8 +41,9 @@
 
 
 ### My Stats 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaatimahM&layout=compact" alt="FaatimahM" />|<img align="center" src="https://github-readme-stats.vercel.app/api?username=FaatimahM&show_icons=true" alt="FaatimahM" />
-|--|--|
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faatimahm&show_icons=true&locale=en&layout=compact" alt="faatimahm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faatimahm&show_icons=true&locale=en" alt="faatimahm" /></p>
 <!--
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=FaatimahM%2FFaatimahM&labelColor=%232ccce4&countColor=%23697689)
 **FaatimahM/FaatimahM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
