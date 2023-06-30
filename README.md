@@ -1,29 +1,21 @@
+<!--
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%92%A1%F0%9F%92%A1%F0%9F%92%A1%F0%9F%92%A1%F0%9F%92%A1%F0%9F%92%A1%F0%9F%92%A1%F0%9F%92%A1%F0%9F%92%A1%F0%9F%92%A1%F0%9F%92%A1%F0%9F%92%A1" alt="Typing SVG" /></a>
 </p>
+-->
 
 <h3 align="center"> I'm Faatimah, a Plant Scientist with interest in Data Science </h1>
 <h4 align="center"> 🌵 :herb: 🪴 :herb: 🪴 :herb: 🪴 :herb: 🪴 :herb: 🪴 🌵 </h3>
 
 
 ### Projects :books:
-#### My projects 
+
 * Personal website [Found Here](https://data-mulcher.netlify.app/)
 * Using Simple Transformers to classify Gender Based Violence tweets as part of the AMLD Africa Hackathon [Found Here](https://github.com/FaatimahM/Tweet_classification_simpletransformers)
 
-#### Projects that I've collaborated on 
 * Building a regression model to predict the Estimated time of delivery [Found Here](https://github.com/Mangalis0/Zindi-Regression-Hackathon)
 * Using machine learning to classify climate change tweets, then deploying models on Streamlit App [Found Here](https://github.com/FaatimahM/unsup-streamlit-app1)
 * Creating a movie recommendation system with unsupervised learning techniques and then deploying models on Streamlit App [Found Here](https://github.com/FaatimahM/unsup-streamlit-app1)
-
-
-### How to reach me :speech_balloon:
-<a href="https://www.linkedin.com/in/faatimah-mansoor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faatimah" height="30" width="40" /></a>
-<a href="https://www.instagram.com/miss_mulch/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@miss_mulch" height="30" width="40" /></a>
-<!--
-<a href="https://www.hackerrank.com/fmansoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fmansoor" height="30" width="40" /></a>
--->
-
 
 
 ### Tools and tech :computer:
@@ -50,6 +42,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faatimahm&show_icons=true&locale=en&layout=compact" alt="faatimahm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faatimahm&show_icons=true&locale=en" alt="faatimahm" /></p>
+
+### How to reach me :speech_balloon:
+<a href="https://www.linkedin.com/in/faatimah-mansoor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faatimah" height="30" width="40" /></a>
+<a href="https://www.instagram.com/miss_mulch/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@miss_mulch" height="30" width="40" /></a>
+<!--
+<a href="https://www.hackerrank.com/fmansoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fmansoor" height="30" width="40" /></a>
+-->
 <!--
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=FaatimahM%2FFaatimahM&labelColor=%232ccce4&countColor=%23697689)
 **FaatimahM/FaatimahM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
