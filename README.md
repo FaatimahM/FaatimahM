@@ -16,7 +16,7 @@
 
 
 ### How to reach me :speech_balloon:
-<a href="https://www.linkedin.com/in/faatimah-mansoor/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Faatimah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/faatimah-mansoor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faatimah" height="30" width="40" /></a>
 <a href="https://www.instagram.com/miss_mulch/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@miss_mulch" height="30" width="40" /></a>
 
 
