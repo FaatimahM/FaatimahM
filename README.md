@@ -10,8 +10,9 @@
 
 ### Projects :books:
 
-* Personal website [Found Here](https://data-mulcher.netlify.app/)
-* Using Simple Transformers to classify Gender Based Violence tweets as part of the AMLD Africa Hackathon [Found Here](https://github.com/FaatimahM/Tweet_classification_simpletransformers)
+* [Personal Website](https://data-mulcher.netlify.app/)
+* [AI Gardener](https://coda.io/@faatimah-mansoor/ai-gardener)
+* [Using Simple Transformers to classify Gender Based Violence tweets as part of the AMLD Africa Hackathon](https://github.com/FaatimahM/Tweet_classification_simpletransformers)
 
 * Building a regression model to predict the Estimated time of delivery [Found Here](https://github.com/Mangalis0/Zindi-Regression-Hackathon)
 * Using machine learning to classify climate change tweets, then deploying models on Streamlit App [Found Here](https://github.com/FaatimahM/unsup-streamlit-app1)
